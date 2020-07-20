@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Serenity test1","Get users information error","ERROR","2020-07-19T22:26:50.669-05:00[America/Bogota]","0.0","0.01"
+"Serenity test1","Get users compromise","ERROR","2020-07-19T22:26:50.678-05:00[America/Bogota]","0.0","0.0"
